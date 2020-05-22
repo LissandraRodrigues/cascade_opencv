@@ -1,6 +1,8 @@
 # cascade_opencv
 
-Scripts que auxiliam na criação de um haar cascade.
+Scripts auxiliadores na criação de um haar cascade.
+
+Para uma melhor compreensão, é recomendado conhecimento básico sobre o assunto.
 
 Os scripts foram criados apenas com o objetivo de aprendizagem, então não nego que talvez existam maneiras melhores de se fazer.
 
